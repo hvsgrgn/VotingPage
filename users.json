@@ -1,0 +1,40 @@
+{
+    "6962ae63a2b3b": {
+        "username": "admin",
+        "password": "$2y$12$CtjPUdYz48DwFm5VnLaj2uBsl6gMYw\/I\/z.Yi36Ran2U5G\/zKgPGm",
+        "roles": [
+            "user",
+            "admin"
+        ],
+        "email": "example@example.com",
+        "id": "6962ae63a2b3b"
+    },
+    "6962ba600d06e": {
+        "username": "Test1",
+        "password": "$2y$12$l9mhaW\/LFioNmLrS99O5XenV4NZIbdcOrjzz44JQZvaHTUm1wB7aS",
+        "roles": [
+            "user"
+        ],
+        "email": "test@test.com",
+        "id": "6962ba600d06e"
+    },
+    "6963c7bfaa550": {
+        "username": "Slash",
+        "password": "$2y$12$4emhGByVm.RUi0UQ7EhVMOpGA.HmkYpff2KEhEeN\/Dm\/OSxpGX2bW",
+        "roles": [
+            "user",
+            "admin"
+        ],
+        "email": "slash@slash.com",
+        "id": "6963c7bfaa550"
+    },
+    "69641c1aae808": {
+        "username": "Test2",
+        "password": "$2y$12$wm53AShywVJED0VowWm5zOllMMoCBLPxYiOuS0CKLguuM\/XaTnGY2",
+        "roles": [
+            "user"
+        ],
+        "email": "test2@gmail.com",
+        "id": "69641c1aae808"
+    }
+}
